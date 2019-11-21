@@ -1,0 +1,19 @@
+{
+  "_id": {
+    "BusinessId": "27ced0c1-74ea-433b-8dd6-2dcf010c1cb1",
+    "SiteId": "27ced0c1-74ea-433b-8dd6-2dcf010c1cbe",
+    "StockItemId": "50d4fd0c-46ec-4fb9-904a-3fae8233bd2f"
+  },
+  "Name": "High Risk Item",
+  "Division": "bar",
+  "Category": "beer",
+  "Subcategory": "gud beer",
+  "PurchaseUnit": "single",
+  "RiskId": "CC181991-5E10-4F80-B38E-4570574E6D0E",
+  "RiskName": "High",
+  "RiskOrder": 1,
+  "ProductType": "strd.line",
+  "LastScheduledCountUtc": null,
+  "CompletedScheduledCountsThisPeriod": 0,
+  "Revision": 1
+}
